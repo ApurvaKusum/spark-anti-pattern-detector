@@ -1,0 +1,1 @@
+# spark-anti-pattern-detector
